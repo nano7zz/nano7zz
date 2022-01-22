@@ -11,10 +11,8 @@
 
    - 🌱 I’m currently learning **C# and Reversing Engineering**
 
-<h3 align="left">Social media platforms:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCpbHU8fNTw5DOUgsWbX62-A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nano7zz" height="30" width="40" /></a>
- <b>nano7z</b>
 </p>
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" />
